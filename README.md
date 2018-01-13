@@ -16,12 +16,18 @@ In this challenge, you have to predict if a customer is happy or not happy.
 Data Description
 
 You are given three files to download: train.csv, test.csv and sample_submission.csv The training data has 38932 rows and test data has 29404 rows.
+
 Variable 	Description
-User_ID 	unique ID of the customer
-Description 	description of the review posted
-Browser_Used 	browser used to post the review
-Device_Used 	device used to post the review
-Is_Response 	target Variable
+
+User_ID 	*unique ID of the customer*
+
+Description 	*description of the review posted*
+
+Browser_Used 	*browser used to post the review*
+
+Device_Used 	*device used to post the review*
+
+Is_Response 	*target Variable*
 
 
 Evaluation Metric
